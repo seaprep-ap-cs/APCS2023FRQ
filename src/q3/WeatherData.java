@@ -69,6 +69,4 @@ public class WeatherData {
     private static void print(Object o) {
         System.out.println(o);
     }
-
-
 }
